@@ -1,3 +1,3 @@
-# multiwiki
+# MultiWiki
 
-The MultiWiki is currently being prepared for publication.
+The MultiWiki code is currently being prepared for publication.
